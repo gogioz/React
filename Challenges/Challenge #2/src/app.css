@@ -1,0 +1,15 @@
+.container,
+p {
+  text-align: center;
+  margin: 20px 0;
+}
+/* 
+button {
+  margin: 0 15px;
+  font-size: 20px;
+} */
+
+span,
+p {
+  font-size: 20px;
+}
